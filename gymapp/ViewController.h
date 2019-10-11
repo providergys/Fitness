@@ -12,5 +12,6 @@
 
 @property (nonatomic, retain) IBOutlet UITableView* myTable;
 @property (nonatomic, retain) NSMutableArray *arrTrainer;
+@property (nonatomic, retain) NSMutableArray *arrsaveindex;
 @end
 

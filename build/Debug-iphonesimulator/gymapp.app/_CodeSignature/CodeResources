@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		uYvFF/syIEfWPjP7vUBo54O7vCU=
+		cVVr9BgRpZZQvVAYXTM2zqrBRCc=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		2icNXcF4KCZa+0NYvraPIs2mSng=
+		He3pCMI4tXCkMcx5U/XTFpP8UhI=
 		</data>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		LbBKYfhC7MLrxFWPZaLBVU9+gNs=
+		lRBs6sEMKKRUt/kPbG8eov3/SwY=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		/VfJWplN7mHSFlAh6PIhrvLSKZw=
+		IchdI2CKhNotfU9NDCZvGjYMF/I=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		m2/fz5L/+m8Ks4G8CS8y3oDDVg4=
+		2a7y2Rqwkq5VCE5HUe803ZdYBzw=
 		</data>
 		<key>Montserrat-Bold.ttf</key>
 		<data>
@@ -72,6 +72,18 @@
 		<data>
 		lMtrgjFtoryMWnC8K3CO4gTsXOI=
 		</data>
+		<key>sweat-logo.png</key>
+		<data>
+		vsEqR95lw9RflEeZ56J2H1iXAcw=
+		</data>
+		<key>sweat-logo@2x.png</key>
+		<data>
+		iOF7BGPHugwCK0TYKyP/anNTQ+s=
+		</data>
+		<key>sweat-logo@3x.png</key>
+		<data>
+		gEKux4GHryk6iYOnrR5G9TxKREQ=
+		</data>
 		<key>trainer-programs.json</key>
 		<data>
 		ip7VNmrPTqh7ENWHFDPCU4b9p/0=
@@ -83,7 +95,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xyy/oA4kia91ZF2yYdzdjq//yDG6sew/7AlieNHYcCM=
+			yGhMNGm5sg3nfZ5YFilBMT20CQJQL0QiiQv1ZZgU2uA=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -97,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jCFdxXE6xIwuLvr/d/9OuyQ7AVXMyid9sZH+Kui7edA=
+			r1f99A8LUfvntDrZMlu0ZFNK4IazyL9EE8H94I8K8Wo=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CpGY6uADsIlF1XiNB9MaleKapEZW3KSjcAyWNW7r23s=
+			2mcYrPitOwssb1tWlAqVSuNwQs4/hPWczNwFrCyuYrg=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -118,7 +130,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z7x+o7jru9/iMT1g+GeykTgTksNdP08Iv5Ti1LUsw1k=
+			DtAD/O1NbvfA0M6AB/Sp4iNuSdyxcdyXHgzop/4Z4Rc=
 			</data>
 		</dict>
 		<key>Montserrat-Bold.ttf</key>
@@ -182,6 +194,27 @@
 			<key>hash2</key>
 			<data>
 			tJ5bgYBMbt38cr/0WueCYAZlU5ER36nkaEG/pT/jQ2Y=
+			</data>
+		</dict>
+		<key>sweat-logo.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			InZ3tHkTJrBPAEKCfL1ptxYLfleKTiyI0evOvbbMn+A=
+			</data>
+		</dict>
+		<key>sweat-logo@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v1cGlbjEhnLxsOdjFDkHWZOKI7a/f5fUYeH5OdYI82s=
+			</data>
+		</dict>
+		<key>sweat-logo@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LbOOA55v1QfJ3DsoKJdzEKz2oT0k2EnKTJRQ9eEbYP0=
 			</data>
 		</dict>
 		<key>trainer-programs.json</key>
